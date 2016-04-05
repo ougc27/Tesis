@@ -1,0 +1,7 @@
+http://codejavu.blogspot.mx/2013/05/conceptos-de-programacion-orientada.html
+http://www.desarrolloweb.com/articulos/499.php
+https://developer.mozilla.org/es/docs/HTML/HTML5
+http://desarrolloweb.dlsi.ua.es/cursos/2011/html5-css3-es/conceptos-basicos-html
+http://desarrolloweb.dlsi.ua.es/cursos/2012/nuevos-estandares-desarrollo-sitios-web/conceptos-basicos-css
+https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Introducci%C3%B3n
+http://mundosica.github.io/tutorial_hispano_jQuery/sesion01/index.html
