@@ -5,3 +5,11 @@ http://desarrolloweb.dlsi.ua.es/cursos/2011/html5-css3-es/conceptos-basicos-html
 http://desarrolloweb.dlsi.ua.es/cursos/2012/nuevos-estandares-desarrollo-sitios-web/conceptos-basicos-css
 https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Introducci%C3%B3n
 http://mundosica.github.io/tutorial_hispano_jQuery/sesion01/index.html
+
+---------------------------------------------------------------------------
+http://jqueryvalidation.org/documentation/
+https://silviomoreto.github.io/bootstrap-select/
+https://sciactive.github.io/pnotify/
+https://secure.php.net/manual/es/index.php
+http://php.net/manual/es/book.pdo.php
+http://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=889:ique-es-y-para-que-sirve-un-erp-software-empresarial-sap-sage-oracle-microsoft-dynamics-infor-ln-etc-&catid=57:herramientas-informaticas&Itemid=179
